@@ -9,3 +9,5 @@ S3テーブルの使用を開始するために、まずテーブルバケット
 
 arn:aws:s3tables:region:owner-account-id:bucket/bucket-name
 
+
+https://aws.amazon.com/blogs/storage/connect-snowflake-to-s3-tables-using-the-sagemaker-lakehouse-iceberg-rest-endpoint/
